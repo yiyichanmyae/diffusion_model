@@ -25,3 +25,6 @@ UNet
 ### requirements
 pytorch
 
+# references
+DeepLearning.AI
+Sharon Zhou (Lamini's CEO)
